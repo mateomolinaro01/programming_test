@@ -19,6 +19,7 @@ def macd(prices, window_short=13, window_long=26):
     # Code a function that takes a DataFrame named prices and 
     # returns it's MACD (Moving Average Convergence Difference) as
     # a DataFrame with same shape
+    # Assume simple moving average rather than exponential moving average
     # The expected output is in the output.csv file
     pass
 
