@@ -4,6 +4,13 @@ import numpy as np
 
 # Logic
 
+def check_uniqueness(lst):
+    """
+    Check if a list contains only unique values.
+    Returns True only if all values in the list are unique, False otherwise
+    """
+    pass
+
 
 def smallest_difference(array):
     # Code a function that takes an array and returns the smallest
