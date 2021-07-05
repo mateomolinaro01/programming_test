@@ -15,7 +15,7 @@ def smallest_difference(array):
 # Finance and DataFrame manipulation
 
 
-def macd(prices, window_short=13, window_long=26):
+def macd(prices, window_short=12, window_long=26):
     # Code a function that takes a DataFrame named prices and 
     # returns it's MACD (Moving Average Convergence Difference) as
     # a DataFrame with same shape
