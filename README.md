@@ -33,4 +33,4 @@ If you unable to complete any of the questions, provide explanations of what iss
 
 Best of luck,
 
-Aequam Capital's research & team
+Aequam Capital's research & development team
